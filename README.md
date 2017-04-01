@@ -1,4 +1,4 @@
-# kaggle-dsb
+# Kaggle Data Science Bowl 
 My Work on Kaggle Data Science Bowl as a member of the University of Toronto Data Science Team
 
 I learned how powerful multiprocessing was, especially on AWS instances that had multi-core CPUs (up to 36 for c4.8xlarge!)
