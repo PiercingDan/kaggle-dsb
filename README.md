@@ -12,7 +12,7 @@ For smaller dataset `sample_images`, here are the times it took to preprocess al
 * 6 processes on 4 CPU c4.xlarge: 3m 40s
 * 8 processes on 8 CPU c4.2xlarge: 2m 09s
 
-For the first fifty images (by path name) in `stage_1` full dataset:
+For the first 50 images (by path name) in `stage_1` full dataset:
 
 * 10 processes on 8CPU c4.2xlarge: 4m 45s
 * 14 processes on 8CPU c4.2xlarge: 4m 14s 
